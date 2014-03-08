@@ -1,0 +1,3 @@
+<p><strong>Working with categories</strong></p>
+
+<p>Each menu item is assigned to a category, which displays in an &lt;h2&gt; tag on your site. Category descriptions can be used for adding more information (such as "all entrees come with two sides"), and extended version users can choose whether the items in each category should display in one or two columns. Note that you can choose to not display category names and descriptions by unchecking those boxes in the category settings. This may be helpful for users who have only one category. You can set the order in which the categories display by entering weighted numbers in the "Display Order" box.</p>

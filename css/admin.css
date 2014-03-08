@@ -1,0 +1,68 @@
+/*  Admin Styles
+-----------------------------------------------*/
+.wprmm .right{float:right;}
+.wprmm .left{float:left;}
+.wprmm .clear{clear:both; height:0;}
+.wprmm-breadcrumb{
+/*  margin:0 0 5px 10px;*/
+  font-style:italic;
+  background-color:white;
+}
+.wprmm-admin-nav span{
+  float:right;
+}
+.wprmm-admin-nav a{
+  text-decoration:none;  
+}
+
+img.wprmm_preview_image{
+  max-width:220px;  
+  max-height:120px;  
+  display:block;
+  margin:5px;
+
+}
+img.wprmm_preview_index_image{
+  max-width:50px;  
+  max-height:30px;  
+  display:block;
+}
+.wprmm .updated ul{
+  padding-left:25px;
+  list-style:circle;
+}
+
+/* Global Settings
+------------------------------------------------*/
+.wprmm_settings ul{
+  padding-left:25px;
+  list-style:circle;
+}
+.wprmm_settings .wprmm_textarea{
+  padding:10px;  
+  list-style:none;
+}
+.wprmm_settings .wprmm_textarea textarea{
+  height:200px;  
+}
+
+.wprmm_settings li.description{
+  list-style:none;
+  margin:0 0 0 -25px;
+  font-style:italic;
+}
+
+
+
+
+
+/*  New Menu Styles
+-----------------------------------------------*/
+.wprmm .create_menu{
+  margin-top:15px;  
+}
+
+
+/*  Icon Styles
+-----------------------------------------------*/
+.wprmm table.icons img{ max-width:100px; max-height:100px;}
